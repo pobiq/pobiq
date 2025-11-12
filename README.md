@@ -53,6 +53,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?logo=springsecurity&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Tomcat-F8DC75?logo=apachetomcat&logoColor=black" />
   <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white" />
