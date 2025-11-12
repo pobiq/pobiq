@@ -1,7 +1,7 @@
 <!-- 헤더 -->
 <h1 align="center">안녕하세요, pobiq 입니다 👋</h1>
 <p align="center">
-  실시간 수어 학습 플랫폼 <b>BabyHands</b>와 농구 매칭/커뮤니티 백엔드 <b>Hoops</b>를 만들고 있어요.<br/>
+  웹 백엔드 개발자를 희망합니다.<br/>
   Java · JSP/Servlet · Spring Boot · Oracle/MariaDB · MyBatis/JPA · FastAPI · WebSocket · MediaPipe · Redis · AWS
 </p>
 
@@ -42,32 +42,35 @@
 - **정확도 ≥ 60%** 시 학습 성공 처리 및 `SL_LEARN` 반영  
 - 도넛형 진행률, 랭킹 상위 5 + 무한 스크롤, 지난 학습 결과/평균
 
-[브라우저] --WebSocket/REST--> [FastAPI AI] --예측-->
-| |
-+--(JSP/Servlet/Tomcat) <--- JSON -------+
-|
-[Oracle / MyBatis]
 
 ### 🏀 Hoops – 개요
 - 경기 생성/참가(3:3, 5:5), 참가자 승인·강퇴, 전용 그룹채팅
 - 친구/초대, 매너 포인트 평가, 신고/블랙리스트, 각종 알림
 - 인증/보안: Spring Security + JWT, 실시간: STOMP(WebSocket) / SSE, 캐시·토큰: Redis
 
-[클라이언트] —(HTTP/S, OAuth2)→ [Spring Boot API]
-   │                           ├─ 보안: Spring Security + JWT
-   │                           ├─ 문서: Swagger
-   │                           ├─ 실시간: STOMP(WebSocket), SSE
-   │                           └─ 저장소: JPA → MariaDB / Redis
-   └────────────(AWS Route53/EC2/RDS/ElastiCache/IAM)────────────
 
-### 도구 상자
-
-Java Spring Boot JSP/Servlet MyBatis JPA/Hibernate
-Python FastAPI OpenCV MediaPipe
-Oracle MariaDB Redis
-WebSocket SSE REST
-Maven Tomcat Swagger OAuth2 JWT
-Figma HTML CSS JavaScript
+### 기술 스택
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tomcat-F8DC75?logo=apachetomcat&logoColor=black" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MyBatis-BA2F2F" />
+  <img src="https://img.shields.io/badge/JPA%2FHibernate-59666C?logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSocket-STOMP-000000" />
+  <img src="https://img.shields.io/badge/SSE-Server--Sent--Events-000000" />
+  <img src="https://img.shields.io/badge/OAuth2-Authorization-000000" />
+  <img src="https://img.shields.io/badge/JWT-Token-000000" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/MediaPipe-1A73E8" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
+</p>
 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pobiq&show_icons=true&hide_border=true" height="150" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pobiq&layout=compact&hide_border=true" height="150" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=pobiq&hide_border=true" height="150"/> </p> ```
