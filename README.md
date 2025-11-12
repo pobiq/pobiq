@@ -42,3 +42,32 @@
 - **정확도 ≥ 60%** 시 학습 성공 처리 및 `SL_LEARN` 반영  
 - 도넛형 진행률, 랭킹 상위 5 + 무한 스크롤, 지난 학습 결과/평균
 
+[브라우저] --WebSocket/REST--> [FastAPI AI] --예측-->
+| |
++--(JSP/Servlet/Tomcat) <--- JSON -------+
+|
+[Oracle / MyBatis]
+
+### 🏀 Hoops – 개요
+- 경기 생성/참가(3:3, 5:5), 참가자 승인·강퇴, 전용 그룹채팅
+- 친구/초대, 매너 포인트 평가, 신고/블랙리스트, 각종 알림
+- 인증/보안: Spring Security + JWT, 실시간: STOMP(WebSocket) / SSE, 캐시·토큰: Redis
+
+[클라이언트] —(HTTP/S, OAuth2)→ [Spring Boot API]
+   │                           ├─ 보안: Spring Security + JWT
+   │                           ├─ 문서: Swagger
+   │                           ├─ 실시간: STOMP(WebSocket), SSE
+   │                           └─ 저장소: JPA → MariaDB / Redis
+   └────────────(AWS Route53/EC2/RDS/ElastiCache/IAM)────────────
+
+### 도구 상자
+
+Java Spring Boot JSP/Servlet MyBatis JPA/Hibernate
+Python FastAPI OpenCV MediaPipe
+Oracle MariaDB Redis
+WebSocket SSE REST
+Maven Tomcat Swagger OAuth2 JWT
+Figma HTML CSS JavaScript
+
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pobiq&show_icons=true&hide_border=true" height="150" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pobiq&layout=compact&hide_border=true" height="150" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=pobiq&hide_border=true" height="150"/> </p> ```
