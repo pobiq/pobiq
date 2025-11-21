@@ -13,8 +13,8 @@
 ---
 
 ## 소개
-- 🧑‍💻 메인: **BabyHands** – 웹캠 기반 수어 학습 (Tomcat + FastAPI + Oracle)
-- 🏀 사이드: **Hoops** – 농구 매칭/커뮤니티 백엔드 (Spring Boot + JWT + Redis + MariaDB + WebSocket/SSE)
+- 🧩 **BabyHands** – 웹캠 기반 수어 학습 (Tomcat + FastAPI + Oracle)
+- 🏀 **Hoops** – 농구 매칭/커뮤니티 백엔드 (Spring Boot + JWT + Redis + MariaDB + WebSocket/SSE)
 
 ---
 
