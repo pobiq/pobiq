@@ -19,7 +19,7 @@
 ---
 
 ## 🔗 대표 레포지토리
-- 🔹 [babyhands-web](https://github.com/pobiq/babyhands-web) – JSP/Servlet + Oracle + MyBatis
+- 🔹 [babyhands-web1](https://github.com/pobiq/babyhands-web1) – JSP/Servlet + Oracle + MyBatis
 - 🔹 [babyhands-python](https://github.com/pobiq/babyhands-python) – FastAPI + MediaPipe/LSTM
 - 🔹 [hoops-project/backend](https://github.com/hoops-project/backend) – Spring Boot 기반 농구 매칭/커뮤니티 백엔드
 
