@@ -1,7 +1,8 @@
 <!-- 헤더 -->
 <h1 align="center">안녕하세요, 한정훈 입니다 👋</h1>
 <p align="center">
- SW 개발자를 희망합니다.<br/>
+ SW 개발자를 희망합니다.
+ 인증/인가, 실시간 통신, AI 서버 분리 구조 설계 경험이 있습니다.<br/>
 </p>
 
 <p align="center">
@@ -11,10 +12,23 @@
 
 ---
 
-## 소개
-- **Hoops** – 농구 매칭/커뮤니티 백엔드 (Spring Boot + JWT + Redis + MariaDB + WebSocket/SSE)
-- **BabyHands** – 웹캠 기반 수어 학습 (Jsp/Servlet + FastAPI + Oracle)
-- **GenieGoods** - 사용자 맞춤 반려동물 굿즈 시안 자동 생성 및 주문 웹 서비스 (React + Spring Boot + Yolo11 + NanoBanana)
+## 🧠 What I Focus On
+
+- Spring Security 기반 **JWT 인증/인가 구조 설계**
+- Web ↔ AI 서버 **분리 아키텍처 설계**
+- WebSocket / SSE 기반 **실시간 통신 구현**
+- Redis 기반 토큰 및 캐시 관리
+- Docker / CI 기반 배포 환경 구성
+
+---
+
+## 🚀 Highlight Projects
+
+| 프로젝트 | 핵심 설계/구현 포인트 |
+|---|---|
+| **Hoops Backend** | JWT 인증/인가 설계, Redis 토큰 관리, STOMP WebSocket 실시간 채팅, SSE 알림 아키텍처, Role 기반 접근 제어 |
+| **BabyHands (Web + AI)** | JSP/Servlet 기반 MVC 구조 구현, FastAPI 예측 서버 분리, Web ↔ AI REST/WS 연동 |
+| **GenieGoods (FullStack + AI)** | Spring Security 기반 인증 설계, OAuth2 소셜 로그인, AI 모델 서버 분리, Docker-Compose 컨테이너화, Batch 기반 작업 처리 |
 
 ---
 
@@ -27,18 +41,6 @@
 - 🔹 [geniegoods/yolo11](https://github.com/pobiq/geniegood-yolo11) – FastAPI + Yolo11
 - 🔹 [geniegoods/nanobanana](https://github.com/pobiq/geniegoods-nanobanana) – FastAPI + Nanobanana API
 
----
-
-## 🚀 하이라이트 프로젝트
-
-| 프로젝트 | 주요 스택 | 어떤 걸 만들었나요 |
-|---|---|---|
-| **Hoops Backend** | Spring Boot 3, Spring Security, JWT, JPA, MariaDB, Redis, STOMP WebSocket, SSE, OAuth2, Swagger, AWS | 경기 개설/참가, 채팅, 친구/평가/신고, 알림, 관리자 기능 |
-| **BabyHands (Web)** | Java, JSP/Servlet, MyBatis, Oracle, Tomcat | 수어 학습/테스트, 진행률·랭킹, OAuth, 마이페이지 |
-| **BabyHands (AI)** | FastAPI, MediaPipe, OpenCV, WebSocket | 실시간 제스처 예측, REST/WS 연동 |
-| **GenieGoods (Front)** | React, JavaScript, TailwindCSS, ReactRouter, TanStack Query, Zustand | SPA 구조 설계, Rest API 연동, 결제 API 연동, 카카오 우편번호 API 연동, Zustand로 상태 관리, TanStack Query와 Axios로 백엔드와 비동기 통신 |
-| **GenieGoods (Back)** | Spring Boot 4, Spring Security, JWT, JPA, MySQL, OAuth2, Swagger, Spring Batch | JWT Token 발급, 소셜 로그인 기능, Object Storage에 이미지 저장, 다운로드, 인증/인가 구조 설계, API 명세서|
-| **GenieGoods (AI)** | FastAPI, OpenCV, Yolo11, NanoBanana | Docker-Compose 기반 모델 컨테이너화, Spring Boot와 연동, 에러시 재생성 로직 추가 |
 ---
 
 ### 기술 스택
