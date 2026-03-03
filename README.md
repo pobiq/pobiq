@@ -26,6 +26,7 @@
 - 🔹 [geniegoods/frontend](https://github.com/pobiq/geniegood-frontend) – React 기반 반려동물 굿즈 시안 웹서비스 프론트엔드
 - 🔹 [geniegoods/backend](https://github.com/pobiq/geniegoods-backend) – Spring boot 기반 반려동물 굿즈 시안 웹서비스 엔드
 - 🔹 [geniegoods/yolo11](https://github.com/pobiq/geniegood-yolo11) – 반려동물 굿즈 시안 웹서비스 Yolo11 모델
+- 🔹 [geniegoods/nanobanana](https://github.com/pobiq/geniegoods-nanobanana) – 반려동물 굿즈 시안 웹서비스 나노바나나 API 호출
 
 ---
 
@@ -33,22 +34,23 @@
 
 | 프로젝트 | 주요 스택 | 어떤 걸 만들었나요 |
 |---|---|---|
+| **Hoops Backend** | Spring Boot 3, Spring Security, JWT, JPA, MariaDB, Redis, STOMP WebSocket, SSE, OAuth2, Swagger, AWS | 경기 개설/참가, 채팅, 친구/평가/신고, 알림, 관리자 기능 |
 | **BabyHands (Web)** | Java, JSP/Servlet, MyBatis, Oracle, Tomcat | 수어 학습/테스트, 진행률·랭킹, OAuth, 마이페이지 |
 | **BabyHands (AI)** | FastAPI, MediaPipe, OpenCV, WebSocket | 실시간 제스처 예측, REST/WS 연동 |
-| **Hoops Backend** | Spring Boot 3, Spring Security, JWT, JPA, MariaDB, Redis, STOMP WebSocket, SSE, OAuth2, Swagger, AWS | 경기 개설/참가, 채팅, 친구/평가/신고, 알림, 관리자 기능 |
-
+| **GenieGoods (Front)** | React, JavaScript, TailwindCSS, ReactRouter, TanStack Query, Zustand | SPA 구조 설계, Rest API 연동, 결제 API 연동, 카카오 우편번호 API 연동, Zustand로 상태 관리, TanStack Query와 Axios로 백엔드와 비동기 통신 |
+| **GenieGoods (Back)** | Spring Boot 4, Spring Security, JWT, JPA, MySQL, OAuth2, Swagger, Spring Batch | JWT Token 발급, 소셜 로그인 기능, Object Storage에 이미지 저장, 다운로드, 인증/인가 구조 설계, API 명세서|
+| **GenieGoods (AI)** | FastAPI, OpenCV, Yolo11, NanoBanana | Docker-Compose 기반 모델 컨테이너화, Spring Boot와 연동, 에러시 재생성 로직 추가 |
 ---
 
-### 🧩 BabyHands – 개요
-- 실시간 웹캠 제스처 → **FastAPI** 모델 예측 → **JSP UI** 업데이트  
-- **정확도 ≥ 60%** 시 학습 성공 처리 및 `SL_LEARN` 반영  
-- 도넛형 진행률, 랭킹 상위 5 + 무한 스크롤, 지난 학습 결과/평균
-
-
-### 🏀 Hoops – 개요
+### Hoops – 개요
 - 경기 생성/참가(3:3, 5:5), 참가자 승인·강퇴, 전용 그룹채팅
 - 친구/초대, 매너 포인트 평가, 신고/블랙리스트, 각종 알림
 - 인증/보안: Spring Security + JWT, 실시간: STOMP(WebSocket) / SSE, 캐시·토큰: Redis
+
+### BabyHands – 개요
+- 실시간 웹캠 제스처 → **FastAPI** 모델 예측 → **JSP UI** 업데이트  
+- **정확도 ≥ 60%** 시 학습 성공 처리 및 `SL_LEARN` 반영  
+- 도넛형 진행률, 랭킹 상위 5 + 무한 스크롤, 지난 학습 결과/평균
 
 
 ### 기술 스택
