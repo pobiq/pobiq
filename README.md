@@ -25,8 +25,8 @@
 - 🔹 [babyhands-python](https://github.com/pobiq/babyhands-python) – FastAPI + MediaPipe/LSTM
 - 🔹 [geniegoods/frontend](https://github.com/pobiq/geniegood-frontend) – React 기반 반려동물 굿즈 시안 웹서비스 프론트엔드
 - 🔹 [geniegoods/backend](https://github.com/pobiq/geniegoods-backend) – Spring boot 기반 반려동물 굿즈 시안 웹서비스 백엔드
-- 🔹 [geniegoods/yolo11](https://github.com/pobiq/geniegood-yolo11) – 반려동물 굿즈 시안 웹서비스 Yolo11 모델
-- 🔹 [geniegoods/nanobanana](https://github.com/pobiq/geniegoods-nanobanana) – 반려동물 굿즈 시안 웹서비스 나노바나나 API 호출
+- 🔹 [geniegoods/yolo11](https://github.com/pobiq/geniegood-yolo11) – FastAPI + Yolo11
+- 🔹 [geniegoods/nanobanana](https://github.com/pobiq/geniegoods-nanobanana) – FastAPI + Nanobanana API
 
 ---
 
