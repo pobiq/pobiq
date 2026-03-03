@@ -42,17 +42,6 @@
 | **GenieGoods (AI)** | FastAPI, OpenCV, Yolo11, NanoBanana | Docker-Compose 기반 모델 컨테이너화, Spring Boot와 연동, 에러시 재생성 로직 추가 |
 ---
 
-### Hoops – 개요
-- 경기 생성/참가(3:3, 5:5), 참가자 승인·강퇴, 전용 그룹채팅
-- 친구/초대, 매너 포인트 평가, 신고/블랙리스트, 각종 알림
-- 인증/보안: Spring Security + JWT, 실시간: STOMP(WebSocket) / SSE, 캐시·토큰: Redis
-
-### BabyHands – 개요
-- 실시간 웹캠 제스처 → **FastAPI** 모델 예측 → **JSP UI** 업데이트  
-- **정확도 ≥ 60%** 시 학습 성공 처리 및 `SL_LEARN` 반영  
-- 도넛형 진행률, 랭킹 상위 5 + 무한 스크롤, 지난 학습 결과/평균
-
-
 ### 기술 스택
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white" />
