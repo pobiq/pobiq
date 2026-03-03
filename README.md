@@ -45,6 +45,8 @@
 <h3>💻 Backend</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Servlet-6DB33F" />
+  <img src="https://img.shields.io/badge/JSP-6DB33F" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?logo=springsecurity&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Batch-6DB33F?logo=spring&logoColor=white" />
@@ -52,7 +54,6 @@
   <img src="https://img.shields.io/badge/MyBatis-BA2F2F" />
   <img src="https://img.shields.io/badge/Tomcat-F8DC75?logo=apachetomcat&logoColor=black" />
 </p>
-
 <h3>🎨 Frontend</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
