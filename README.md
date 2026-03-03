@@ -1,7 +1,7 @@
 <!-- 헤더 -->
 <h1 align="center">안녕하세요, 한정훈 입니다 👋</h1>
 <p align="center">
-  개발자를 희망합니다.<br/>
+ SW 개발자를 희망합니다.<br/>
   Java · JSP/Servlet · Spring Boot · Oracle/MariaDB · MyBatis/JPA · FastAPI · WebSocket · MediaPipe · Redis · AWS
 </p>
 
@@ -13,16 +13,19 @@
 ---
 
 ## 소개
-- **BabyHands** – 웹캠 기반 수어 학습 (Jsp/Servlet + FastAPI + Oracle)
 - **Hoops** – 농구 매칭/커뮤니티 백엔드 (Spring Boot + JWT + Redis + MariaDB + WebSocket/SSE)
+- **BabyHands** – 웹캠 기반 수어 학습 (Jsp/Servlet + FastAPI + Oracle)
 - **GenieGoods** - 사용자 맞춤 반려동물 굿즈 시안 자동 생성 및 주문 웹 서비스 (React + Spring Boot + Yolo11 + NanoBanana)
 
 ---
 
 ## 🔗 대표 레포지토리
+- 🔹 [hoops-project/backend](https://github.com/hoops-project/backend) – Spring Boot 기반 농구 매칭/커뮤니티 백엔드
 - 🔹 [babyhands-web](https://github.com/pobiq/babyhands-web) – JSP/Servlet + Oracle + MyBatis
 - 🔹 [babyhands-python](https://github.com/pobiq/babyhands-python) – FastAPI + MediaPipe/LSTM
-- 🔹 [hoops-project/backend](https://github.com/hoops-project/backend) – Spring Boot 기반 농구 매칭/커뮤니티 백엔드
+- 🔹 [geniegoods/frontend](https://github.com/pobiq/geniegood-frontend) – React 기반 반려동물 굿즈 시안 웹서비스 프론트엔드
+- 🔹 [geniegoods/backend](https://github.com/pobiq/geniegoods-backend) – Spring boot 기반 반려동물 굿즈 시안 웹서비스 엔드
+- 🔹 [geniegoods/yolo11](https://github.com/pobiq/geniegood-yolo11) – 반려동물 굿즈 시안 웹서비스 Yolo11 모델
 
 ---
 
