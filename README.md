@@ -1,7 +1,7 @@
 <!-- 헤더 -->
-<h1 align="center">안녕하세요, pobiq 입니다 👋</h1>
+<h1 align="center">안녕하세요, 한정훈 입니다 👋</h1>
 <p align="center">
-  웹 백엔드 개발자를 희망합니다.<br/>
+  개발자를 희망합니다.<br/>
   Java · JSP/Servlet · Spring Boot · Oracle/MariaDB · MyBatis/JPA · FastAPI · WebSocket · MediaPipe · Redis · AWS
 </p>
 
@@ -13,8 +13,9 @@
 ---
 
 ## 소개
-- 🧩 **BabyHands** – 웹캠 기반 수어 학습 (Jsp/Servlet + FastAPI + Oracle)
-- 🏀 **Hoops** – 농구 매칭/커뮤니티 백엔드 (Spring Boot + JWT + Redis + MariaDB + WebSocket/SSE)
+- **BabyHands** – 웹캠 기반 수어 학습 (Jsp/Servlet + FastAPI + Oracle)
+- **Hoops** – 농구 매칭/커뮤니티 백엔드 (Spring Boot + JWT + Redis + MariaDB + WebSocket/SSE)
+- **GenieGoods** - 사용자 맞춤 반려동물 굿즈 시안 자동 생성 및 주문 웹 서비스 (React + Spring Boot + Yolo11 + NanoBanana)
 
 ---
 
