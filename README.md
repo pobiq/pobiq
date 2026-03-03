@@ -48,6 +48,7 @@
   <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?logo=springsecurity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Batch-6DB33F?logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/JPA%2FHibernate-59666C?logo=hibernate&logoColor=white" />
   <img src="https://img.shields.io/badge/MyBatis-BA2F2F" />
   <img src="https://img.shields.io/badge/Tomcat-F8DC75?logo=apachetomcat&logoColor=black" />
@@ -85,6 +86,7 @@
 
 <h3>🗄 Database</h3>
 <p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white" />
 </p>
