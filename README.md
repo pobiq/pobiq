@@ -43,29 +43,67 @@
 ---
 
 ### 기술 스택
+<h3>💻 Backend</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?logo=springsecurity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tomcat-F8DC75?logo=apachetomcat&logoColor=black" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MyBatis-BA2F2F" />
   <img src="https://img.shields.io/badge/JPA%2FHibernate-59666C?logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/MyBatis-BA2F2F" />
+  <img src="https://img.shields.io/badge/Tomcat-F8DC75?logo=apachetomcat&logoColor=black" />
+</p>
+
+<h3>🎨 Frontend</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
+</p>
+
+<h3>🔐 Authentication / Real-Time</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/JWT-000000" />
+  <img src="https://img.shields.io/badge/OAuth2-000000" />
   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/WebSocket-STOMP-000000" />
-  <img src="https://img.shields.io/badge/SSE-Server--Sent--Events-000000" />
-  <img src="https://img.shields.io/badge/OAuth2-Authorization-000000" />
-  <img src="https://img.shields.io/badge/JWT-Token-000000" />
+  <img src="https://img.shields.io/badge/SSE-000000" />
+</p>
+
+<h3>🤖 AI / Computer Vision</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/MediaPipe-1A73E8" />
+</p>
+
+<h3>🗄 Database</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white" />
+</p>
+
+<h3>🚀 Infra / DevOps</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" />
+</p>
+
+<h3>🛠 Tools</h3>
+<p align="left">
   <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
 </p>
 
+<h2>📊 GitHub Stats</h2>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pobiq&show_icons=true&hide_border=true" height="150" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pobiq&layout=compact&hide_border=true" height="150" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=pobiq&hide_border=true" height="150"/> </p> ```
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pobiq&show_icons=true&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pobiq&layout=compact&hide_border=true" height="150" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pobiq&hide_border=true" height="150"/>
+</p>
