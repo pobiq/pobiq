@@ -2,7 +2,6 @@
 <h1 align="center">안녕하세요, 한정훈 입니다 👋</h1>
 <p align="center">
  SW 개발자를 희망합니다.<br/>
-  React · Tailwind CSS · JavaScript · Axios · React Router · Zustand · Java · JSP/Servlet · Spring Boot · Oracle/MariaDB/MySQL · MyBatis/JPA · FastAPI · WebSocket · SSE · Yolo11 · Redis · NCP · AWS
 </p>
 
 <p align="center">
