@@ -28,7 +28,7 @@
 |---|---|
 | **Hoops Backend** | JWT 인증/인가 설계, Redis 토큰 관리, STOMP WebSocket 실시간 채팅, SSE 알림 아키텍처, Role 기반 접근 제어 |
 | **BabyHands (Web + AI)** | JSP/Servlet 기반 MVC 구조 구현, FastAPI 예측 서버 분리, Web ↔ AI REST/WS 연동 |
-| **GenieGoods (FullStack + AI)** | Spring Security 기반 인증 설계, OAuth2 소셜 로그인, AI 모델 서버 분리, Docker-Compose 컨테이너화, Batch 기반 작업 처리 |
+| **GenieGoods (FullStack + AI + Infra)** | Spring Security 기반 인증 설계, OAuth2 소셜 로그인, AI 모델 서버 분리, Docker-Compose 컨테이너화, Batch 기반 작업 처리, Naver Cloud Platform 서버 배포 및 운영 경험, GitHub Actions 기반 CI/CD 파이프라인 구축, |
 
 ---
 
@@ -97,8 +97,8 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Naver%20Cloud-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
 </p>
 
 <h3>🛠 Tools</h3>
