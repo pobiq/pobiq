@@ -14,11 +14,10 @@
 
 ## 🧠 What I Focus On
 
-- Spring Security 기반 **JWT 인증/인가 구조 설계**
-- Web ↔ AI 서버 **분리 아키텍처 설계**
-- WebSocket / SSE 기반 **실시간 통신 구현**
-- Redis 기반 토큰 및 캐시 관리
-- Docker / CI 기반 배포 환경 구성
+- Spring Security 기반 JWT 인증/인가 구조 설계
+- Web ↔ AI 서버 분리 아키텍처 설계
+- GitHub Actions 기반 CI/CD 파이프라인 구축
+- Docker Compose 기반 Naver Cloud Platform 배포 경험
 
 ---
 
@@ -26,7 +25,7 @@
 
 | 프로젝트 | 핵심 설계/구현 포인트 |
 |---|---|
-| **Hoops Backend** | JWT 인증/인가 설계, Redis 토큰 관리, STOMP WebSocket 실시간 채팅, SSE 알림 아키텍처, Role 기반 접근 제어 |
+| **Hoops Backend** | 경기/참가 도메인 로직 설계 및 상태 관리 구현, 친구·초대 기능의 요청/수락/거절 흐름 설계, JUnit5·Mockito 기반 테스트 코드 작성, Swagger API 문서화, Logback 로그 정책 설정 |
 | **BabyHands (Web + AI)** | JSP/Servlet 기반 MVC 구조 구현, FastAPI 예측 서버 분리, Web ↔ AI REST/WS 연동 |
 | **GenieGoods (FullStack + AI + Infra)** | Spring Security 기반 인증 설계, OAuth2 소셜 로그인, AI 모델 서버 분리, Docker-Compose 컨테이너화, Batch 기반 작업 처리, Naver Cloud Platform 서버 배포 및 운영 경험, GitHub Actions 기반 CI/CD 파이프라인 구축, |
 
